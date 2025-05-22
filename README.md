@@ -5,3 +5,5 @@ Repository for our research paper "Assessing Genotype-Phenotype Correlations wit
 Code in 'Model_and_Heatmaps' was used for model training, deployment and generation of heatmaps.
 
 Code in 'Top_Tiles' was used for generation of Top Tiles.
+
+Trained models for seven folds are stored under 'Releases v0.1'.
